@@ -1,0 +1,18 @@
+#about-card{
+    background: #f4f4f4;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px #f4f4f4;
+}
+#item-card{
+    background: #f4f4f4;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 5px;
+    width: 350px;
+    transition: all 0.5s;
+}
+#item-card:hover{
+    transform: scale(1.1);
+
+}
